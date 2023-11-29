@@ -15,6 +15,7 @@ Contact
 * Alain TCHANA @ GINP Université Grenoble Alpes
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
 * Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
+* Marcelle Bessala @ Centre Pasteur Yaoundé
 
 [Github repositories](https://github.com/i2hm/)
 
