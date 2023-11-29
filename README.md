@@ -10,7 +10,11 @@ Sensors are designed according the low tech manifesto in order to be maintable o
 
 Additionally, the proposed system ensures better support by deploying preventive solutions that can be reused for the surveillance of other diseases such as meningitis and respiratory pathologies related to particle matter (PM) pollution.
 
-Contact : Didier DONSEZ @ Université Grenoble Alpes
+Contact
+* Didier DONSEZ @ Université Grenoble Alpes
+* Alain TCHANA @ GINP Université Grenoble Alpes
+* Anne-Marie CHANA @ ENSPY Université Yaoundé 1
+* Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
 
 [Github repositories](https://github.com/i2hm/)
 
