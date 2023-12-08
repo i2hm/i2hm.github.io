@@ -13,6 +13,7 @@ Additionally, the proposed system ensures better support by deploying preventive
 Contact
 * Didier DONSEZ @ Université Grenoble Alpes
 * Alain TCHANA @ GINP Université Grenoble Alpes
+* Nicolas VUILLERME @ Université Grenoble Alpes
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
 * Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
 * Marcelle Bessala @ Centre Pasteur Yaoundé
