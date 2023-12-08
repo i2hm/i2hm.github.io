@@ -8,12 +8,13 @@ Georeferenced sensor data are immedialy processed for training machine learning 
 
 Sensors are designed according the low tech manifesto in order to be maintable on site and to involve the citizen in sensor data collection.
 
-Additionally, the proposed system ensures better support by deploying preventive solutions that can be reused for the surveillance of other diseases such as meningitis and respiratory pathologies related to particle matter (PM) pollution.
+Additionally, the proposed system ensures better support by deploying preventive solutions that can be reused for the surveillance of other diseases such as meningitis and respiratory pathologies related to particle matter (PM) and COV pollution.
 
 Contact
-* Didier DONSEZ @ Université Grenoble Alpes
+* Didier DONSEZ @ GINP Université Grenoble Alpes
 * Alain TCHANA @ GINP Université Grenoble Alpes
 * Nicolas VUILLERME @ Université Grenoble Alpes
+* Martin HEUSSE @ GINP Université Grenoble Alpes
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
 * Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
 * Marcelle Bessala @ Centre Pasteur Yaoundé
