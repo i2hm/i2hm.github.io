@@ -14,6 +14,7 @@ Contact
 * Didier DONSEZ @ GINP Université Grenoble Alpes
 * Alain TCHANA @ GINP Université Grenoble Alpes
 * Nicolas VUILLERME @ Université Grenoble Alpes
+* Pascal PETIT @ Université Grenoble Alpes
 * Martin HEUSSE @ GINP Université Grenoble Alpes
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
 * Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
