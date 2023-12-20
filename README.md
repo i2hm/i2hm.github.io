@@ -16,6 +16,7 @@ Contact
 * Nicolas VUILLERME @ Université Grenoble Alpes
 * Pascal PETIT @ Université Grenoble Alpes
 * Martin HEUSSE @ GINP Université Grenoble Alpes
+* Nicolas PALIX @ GINP Université Grenoble Alpes
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
 * Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
 * Marcelle Bessala @ Centre Pasteur Yaoundé
