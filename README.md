@@ -15,6 +15,7 @@ Contact
 * Alain TCHANA @ GINP Université Grenoble Alpes
 * Nicolas VUILLERME @ Université Grenoble Alpes
 * Pascal PETIT @ Université Grenoble Alpes
+* Delphine ALDEBERT @ Université Grenoble Alpes 
 * Martin HEUSSE @ GINP Université Grenoble Alpes
 * Nicolas PALIX @ GINP Université Grenoble Alpes
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
