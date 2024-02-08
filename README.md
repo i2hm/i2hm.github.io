@@ -19,6 +19,7 @@ People
 * Martin HEUSSE @ GINP Université Grenoble Alpes
 * Nicolas PALIX @ GINP Université Grenoble Alpes
 * Tân-Phu VUONG @ GINP Université Grenoble Alpes
+* Fabien FERRERO @ Université Nice Côte d'Azur
 * Anne-Marie CHANA @ ENSPY Université Yaoundé 1
 * Bernabé BATCHAKUI @ ENSPY Université Yaoundé 1
 * Marcelle BESSALA @ Centre Pasteur Yaoundé
