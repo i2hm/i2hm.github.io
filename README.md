@@ -29,6 +29,10 @@ People
 
 ![slide](i2hm-slide.png)
 
+![Grafana Dashboard](images/grafana_wyres_01.png)
+
+
+
 This project is partially funded by [MIAI Grenoble Alpes (Multidisciplinary Institute in Artificial Intelligence)](https://miai.univ-grenoble-alpes.fr)
 
 ![MIAI](images/logoMIAI-rvb.png)
